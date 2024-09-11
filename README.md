@@ -12,7 +12,7 @@
 | Trejo Muñoz Sebastian | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
 | Chavez Quiroz Kevin Axel | [ch471819@uaeh.edu.mx](mailto:ch471819@uaeh.edu.mx) | [-](https://github.com/ma472168) | Base de datos |
 | Romo Guzman Jesus | [ro356932@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
-| Perez Orta Braulio Adrian | pe355611@uaeh.edu.mx | [-](https://github.com/pe355611) | - Desarrollador |
+| Perez Orta Braulio Adrian | pe355611@uaeh.edu.mx | [-](https://github.com/AdrianPrez) |  Desarrollador |
 | Cornejo Velazquez Eduardo | [ecornejo@uaeh.edu.mx](mailto:ecornejo@uaeh.edu.mx) | - | Profesor / Mentor |
 
 ## ¿Por que elegimos este proyecto? / Why did we choose this proyect? 🤷‍♂️
