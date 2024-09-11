@@ -33,6 +33,8 @@
 ## Documentacion / Documentation:📋
 Toda la documentacion del proyecto se encontrara [aquí](https://github.com/ma472168/ProyectoGYM-BDD-UAEH-5-2/wiki) de manera organizada y se ira actualizando como se vaya solicitando de manera activa para el pro del proyecto.
 
+All project documentation will be available [here](https://github.com/ma472168/ProyectoGYM-BDD-UAEH-5-2/wiki) in an organized manner, and it will be updated actively as needed for the benefit of the project.
+
 ## Referencias / References:📕
 - López, C. P. (2008). MySQL para Windows y Linux.
 - Wiederhold, G. (1985). Diseño de bases de datos.
