@@ -11,7 +11,7 @@
 | Vazquez Bonilla Eduardo | Va472163@uaeh.edu.mx | [EduardoVazquez04](https://github.com/EduardoVazquez04) | Scrum Master |
 | Trejo Muñoz Sebastian | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
 | Chavez Quiroz Kevin Axel | [ch471819@uaeh.edu.mx](mailto:ch471819@uaeh.edu.mx) | [-](https://github.com/ma472168) | Base de datos |
-| Romo Guzman Jesus | [ro356932@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
+| Romo Guzman Jesus | [ro356932@uaeh.edu.mx](mailto:ro356932@uaeh.edu.mx) | [J3susR0m0](https://github.com/ma472168) | Diseño de base de datos |
 | Perez Orta Braulio Adrian | pe355611@uaeh.edu.mx | [-](https://github.com/pe355611) | - Desarrollador |
 | Cornejo Velazquez Eduardo | [ecornejo@uaeh.edu.mx](mailto:ecornejo@uaeh.edu.mx) | - | Profesor / Mentor |
 
