@@ -7,7 +7,7 @@
 | Nombre | Correo | Github | Rol |
 | -------|--------|--------|-----|
 | Martinez Andrade Cesar | [ma472168@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [ma472168](https://github.com/ma472168) | Desarollador |
-| Hernandez Morales Fernando | [-](mailto:he471504@uaeh.edu.mx) | [he471504@uaeh.edu.mx](https://github.com/ma472168) | - |
+| Hernandez Morales Fernando | [he471504@uaeh.edu.mx](mailto:he471504@uaeh.edu.mx) | [he471504@uaeh.edu.mx](https://github.com/FernandoHernandezMorales) | Desarollador |
 | Vazquez Bonilla Eduardo | Va472163@uaeh.edu.mx | [EduardoVazquez04](https://github.com/EduardoVazquez04) | Scrum Master |
 | Trejo Muñoz Sebastian | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
 | Chavez Quiroz Kevin Axel | [ch471819@uaeh.edu.mx](mailto:ch471819@uaeh.edu.mx) | [-](https://github.com/ma472168) | Base de datos |
