@@ -1,4 +1,4 @@
-# ProyectoGYM-BDD-UAEH-5-2 by "Drop Database" 🏋️💻
+# ProyectoGYM-BDD-UAEH-6-2 by "Drop Database" 🏋️💻
 🇲🇽 Proyecto de base de datos distribuidas "Gimnasio". Desarollado por alumnos del 6to semestre de la materia "Base de datos distribuidas". 
 
 🇺🇸 Distributed database project "Gym". Developed by students of the 6th semester of the subject "Distributed databases".
