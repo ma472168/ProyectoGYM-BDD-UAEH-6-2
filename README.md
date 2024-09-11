@@ -19,6 +19,7 @@
 ### Detalles del Proyecto / Proyect Details: 
 
 🇲🇽 Este proyecto es hecho usando:
+
 🇺🇸 For the development of the project the following tools are used:
 - [MySQL](https://www.mysql.com/)
 - [StarUML](https://staruml.io/)
