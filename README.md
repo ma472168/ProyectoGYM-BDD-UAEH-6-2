@@ -8,7 +8,7 @@
 | -------|--------|--------|-----|
 | Martinez Andrade Cesar | [ma472168@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [ma472168](https://github.com/ma472168) | Desarollador |
 | Hernandez Morales Fernando | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
-| Vazquez Bonilla Eduardo | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
+| Vazquez Bonilla Eduardo | Va472163@uaeh.edu.mx | [EduardoVazquez04](https://github.com/EduardoVazquez04) | Scrum Master |
 | Trejo Muñoz Sebastian | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
 | Chavez Quiroz Kevin Axel | [-](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
 | Romo Guzman Jesus | [ro356932@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [-](https://github.com/ma472168) | - |
