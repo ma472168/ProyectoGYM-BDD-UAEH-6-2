@@ -12,7 +12,7 @@
 | Trejo Muñoz Sebastian | [sebastm12344@gmail.com](mailto:sebastn12344@uaeh.edu.mx) | [SebasTM03](https://github.com/SebasTM03) | UML Master |
 | Chavez Quiroz Kevin Axel | [ch471819@uaeh.edu.mx](mailto:ch471819@uaeh.edu.mx) | [KevinAxel](https://github.com/Kevin-Axel) | Base de datos |
 | Romo Guzman Jesus | [ro356932@uaeh.edu.mx](mailto:ro356932@uaeh.edu.mx) | [J3susR0m0](https://github.com/J3susR0m0) | Diseño de base de datos |
-| Perez Orta Braulio Adrian | pe355611@uaeh.edu.mx | [-](https://github.com/AdrianPrez) |  Desarrollador |
+| Perez Orta Braulio Adrian | pe355611@uaeh.edu.mx | (https://github.com/AdrianPrez) |  Desarrollador |
 | Cornejo Velazquez Eduardo | [ecornejo@uaeh.edu.mx](mailto:ecornejo@uaeh.edu.mx) | - | Profesor / Mentor |
 
 ## ¿Por que elegimos este proyecto? / Why did we choose this proyect? 🤷‍♂️
