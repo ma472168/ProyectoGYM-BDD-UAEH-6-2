@@ -6,7 +6,7 @@
 ## Integrantes / Develpment team: "Drop Database" 🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻
 | Nombre | Correo | Github | Rol |
 | -------|--------|--------|-----|
-| Martinez Andrade Cesar | [ma472168@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [ma472168](https://github.com/ma472168) | Desarollador |
+| Martinez Andrade Cesar | [ma472168@uaeh.edu.mx](mailto:ma472168@uaeh.edu.mx) | [ma472168](https://github.com/ma472168) | Desarollador y "Wiki/Git" Editor |
 | Hernandez Morales Fernando | [he471504@uaeh.edu.mx](mailto:he471504@uaeh.edu.mx) | [he471504@uaeh.edu.mx](https://github.com/FernandoHernandezMorales) | Desarollador |
 | Vazquez Bonilla Eduardo | Va472163@uaeh.edu.mx | [EduardoVazquez04](https://github.com/EduardoVazquez04) | Scrum Master |
 | Trejo Muñoz Sebastian | [sebastm12344@gmail.com](mailto:sebastn12344@uaeh.edu.mx) | [SebasTM03](https://github.com/SebasTM03) | UML Master |
