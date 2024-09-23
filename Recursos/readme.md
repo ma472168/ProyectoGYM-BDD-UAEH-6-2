@@ -1,1 +1,1 @@
-Carpeta de Recursos graficos.
+Carpeta de Recursos graficos, las caras han sido blurreadas para la privacidad de los integrantes.
